@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_blooddonation
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bloodApp
+blood donation app by using firebase
+>>>>>>> 6b6e91a2008d99d0af2c6b56e1168a067958453c
